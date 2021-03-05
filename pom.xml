@@ -3,6 +3,7 @@
     <parent>
         <artifactId>lutece-global-pom</artifactId>
         <groupId>fr.paris.lutece.tools</groupId>
+        <!-- mettre la version 5.1.1 minimum pour qu'on puisse créer la bd -->
         <version>5.1.1</version>
     </parent>
 
